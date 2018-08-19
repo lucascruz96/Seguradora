@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seguradora", "Seguradora\Seguradora.csproj", "{DFA20179-FCB1-4EA9-AE5C-566329A01D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeguradoraTests", "SeguradoraTests\SeguradoraTests.csproj", "{219397CA-164F-4545-9430-C7227E20BC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA20179-FCB1-4EA9-AE5C-566329A01D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA20179-FCB1-4EA9-AE5C-566329A01D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA20179-FCB1-4EA9-AE5C-566329A01D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA20179-FCB1-4EA9-AE5C-566329A01D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219397CA-164F-4545-9430-C7227E20BC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219397CA-164F-4545-9430-C7227E20BC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219397CA-164F-4545-9430-C7227E20BC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219397CA-164F-4545-9430-C7227E20BC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A9E120-8B39-42E3-8A58-CFFA89A17F78}
+	EndGlobalSection
+EndGlobal
